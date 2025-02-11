@@ -19,6 +19,13 @@ For this solution, here is "pcdt-scraper".
 
 Python 3.6+ is required.
 
+
+## Requirements
+- Python 3.6 or higher
+- Chrome or Chromium browser
+- `bs4` (BeautifulSoup4)
+- `PyChromeDevTools`
+
 ## Installation
 
 ```sh

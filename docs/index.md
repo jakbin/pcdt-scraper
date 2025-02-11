@@ -47,7 +47,8 @@ First, you need to run Chrome or Chromium with remote debugging enabled:
 ```bash
 # Regular mode
 chromium --remote-debugging-port=9222 --remote-allow-origins=*
-
+```
+```bash
 # Or headless mode
 chromium --remote-debugging-port=9222 --remote-allow-origins=* --headless
 ```
